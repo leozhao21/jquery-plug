@@ -133,7 +133,7 @@ jQuery.extend({
 		}
 		return return_value;
 	},
-	
+
 	//日期时间比较
 	//返回值：true:传入的参数第一个大于第二个；false:第二个大于等于第一个
 	compareDataTime: function (date1,date2){
@@ -147,8 +147,3 @@ jQuery.extend({
 	    }
 	}
 }); 
-
-
-/**
- * jquery对象扩展
- */
