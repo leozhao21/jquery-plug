@@ -6,6 +6,7 @@
  * compareDataTime 比较时间的大小
  */
 
+
 jQuery.extend({ 
 	//设置URL参数
 	//返回值是一个对象，status:表示返回返回值的状态；info:包含返回的信息
